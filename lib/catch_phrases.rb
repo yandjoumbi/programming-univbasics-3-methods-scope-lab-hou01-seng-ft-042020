@@ -14,6 +14,7 @@ def link
   sentence = "puts out 'It's Dangerous To Go Alone! Take This.'"
   puts sentence
 end
+link
 
 
 def all_phrases
@@ -21,4 +22,5 @@ def all_phrases
   toadstool
   link
 end
+all_phrases
 
