@@ -4,12 +4,14 @@ def mario
 end
 mario
 
-
 def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
 toadstool
+
+def link 
+  puts sentence = 
 
 def all_phrases
   mario()
