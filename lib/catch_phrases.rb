@@ -11,7 +11,7 @@ end
 toadstool
 
 def link 
-  sentence = " It's Dangerous To Go Alone! Take This."
+  sentence = "'It's Dangerous To Go Alone! Take This.'"
   puts sentence
 end
 link
